@@ -44,7 +44,7 @@ h1{
 .square{
     height: 50px;
     width: 50px;
-    background-color: mediumturquoise;
+    background-color: rgb(82, 245, 240);
     color: aliceblue;
     display: flex;
     flex-direction: row;
@@ -59,7 +59,7 @@ h1{
 .rectangle{
     height: 50px;
     width: 100px;
-    background-color: mediumturquoise;
+    background-color: rgb(66, 188, 182);
     color: aliceblue;
     display: flex;
     flex-direction: row;
@@ -75,7 +75,7 @@ h1{
     height: 50px;
     width: 50px;
     border-radius: 50%;/*it makes the corner curved*/
-    background-color: mediumturquoise;
+    background-color: rgb(44, 133, 130);
     color: aliceblue;
     display: flex;
     flex-direction: row;
