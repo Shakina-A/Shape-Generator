@@ -11,13 +11,15 @@
     background-color: aqua;
     width: 100vw;
     height: 50vh;
-    color: blue;
+    color: rgb(0, 0, 0);
     font-weight: 600;
     display: flex;/*it alligns all conent in a single row*/
     flex-direction: column;
     align-items: center;
     justify-content: center;
     background-image: url("img.png");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 /*for heading*/
